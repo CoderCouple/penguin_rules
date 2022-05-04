@@ -16,3 +16,20 @@ Command Related to Save Data:
 2) :q   -> quit the file
 3) :wq  -> write the data and quit the file
 4) :q!  -> quit the file without saving the content
+
+
+Command Related to Editing the Data:
+====================================
+1) i    -> insert data
+2) x    -> delete on chracter
+3) dd   -> delete the entire line
+
+
+Command Related to Navigating the file:
+======================================
+1) ^    -> move to the start of the line
+2) $    -> move to the end of the line
+
+
+Misc Command Related to VI:
+==========================
