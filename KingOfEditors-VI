@@ -1,1 +1,18 @@
+Basic Linux Commands for the VI/VIM Editor
+============================================
 
+* VI Works in 2 Mode:
+    -> Command Mode
+    -> Insert/Data Mode
+    
+* Command Mode is used for Metadata operations such as save , close , quit, navigate in the file, copy and paste etc.
+
+* Inster Mode is used for storing the data in the file.
+
+
+Command Related to Save Data:
+============================
+1) :w   -> write the data
+2) :q   -> quit the file
+3) :wq  -> write the data and quit the file
+4) :q!  -> quit the file without saving the content
